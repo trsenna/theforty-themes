@@ -1,0 +1,13 @@
+# Ignore all
+/*
+
+# Whitelisted
+!/.gitignore
+!/index.php
+!/Makefile
+!/README.md
+
+# Whitelisted themes
+!/theforty-abril
+!/twentytwentythree
+!/twentytwentytwo
